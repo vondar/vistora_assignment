@@ -1,0 +1,7 @@
+{
+  "host": "mysql-himanshu-himanshu-task.i.aivencloud.com",
+  "port": 12854,
+  "user": "avnadmin",
+  "password": "YOUR_PASSWORD",
+  "database": "sakila"
+}
